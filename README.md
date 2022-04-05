@@ -10,5 +10,3 @@ Katılımsız Program Üretici
 
 **Not:** Katılımsz Program Üretici içerisinde kod dosyaları (Form1.cs ve OrnekProje.csproj) kodları yer almaktadır.
 Kodlar üzerinde değişiklik yapmak istiyorsanız, Katılımsız Program Üretici Projesi üzerinden yapmanız gerekmektedir.
-
-**Bilgilendirme:** Veritabanı ve dosyalar da kullandım. Ancak ilk yaptığım sürüm bu olduğu için bunu ekliyorum.
